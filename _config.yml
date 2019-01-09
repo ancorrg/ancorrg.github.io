@@ -29,7 +29,7 @@ icons:
   dribbble:
   flickr:
   instagram: ancorrg
-  linkedin: # full URL
+  linkedin: https://www.linkedin.com/in/ancorromero/
   pinterest:
   reddit:
   soundcloud:
@@ -78,7 +78,7 @@ share_buttons:
   facebook: false # needs ogp.fb.app_id
   hatena: false
 ogp:
-  image_url: //ttskch.github.io/jekyll-ttskch-theme/assets/img/ogp.png
+  image_url:
   fb:
     admin: # facebook admin id
     app_id: # facebook application id
