@@ -14,9 +14,9 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: /dev/ancor
 
-description: Stylish Jekyll Theme
+description: Dev thoughts @ my brain
 author:
   name: Ancor
   email: ancor [at] ancorromero [dot] com
