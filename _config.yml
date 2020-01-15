@@ -6,8 +6,8 @@ exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
 disqus: dbyll
-google_analytics: dbyll
-title: dbyll
+google_analytics: UA-132060897-1
+title: /dev/ancor
 
 defaults:
   -
